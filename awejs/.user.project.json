@@ -1,0 +1,25 @@
+{
+  "run": [
+    {
+      "filePath": "/examples/geo_ar/index.html",
+      "previewMode": 1,
+      "dataMode": 1,
+      "workspace": "withoutWorkspace",
+      "ui5ActiveVersion": null,
+      "ui5VerSource": null,
+      "isDefaultVersion": 0,
+      "urlParameters": [],
+      "hashParameter": "",
+      "backendSystem": [],
+      "_metadata": {
+        "runnerId": "webapprunner",
+        "id": 5380463,
+        "displayName": "Run index.html",
+        "lastRunTimeStamp": 1475165554528
+      }
+    }
+  ],
+  "hybrid": {
+    "dirty": false
+  }
+}
